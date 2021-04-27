@@ -10,7 +10,7 @@
       [
         {
           "name": "Robgam Robotics Board",
-          "architecture": "samd",
+          "architecture": "AVR",
           "version": "0.0.1",
           "category": "Contributed",
           "url": "https://github.com/MarioRoldan97/ROBGAM_BOARD/ROBGAM.rar",
