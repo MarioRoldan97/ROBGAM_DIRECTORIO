@@ -4,8 +4,8 @@
     {
       "name": "ROBGAM ROBOTICS",
       "maintainer": "Robotics Masters",
-      "websiteURL": "https://roboticsmasters.co",
-      "email" : "techsupport@roboticsmasters.co",
+      "websiteURL": "https://roboticsmasters.com",
+      "email" : "techsupport@roboticsmasters.com",
       "platforms":
       [
         {
@@ -19,7 +19,7 @@
           "size": "9075686",
           "boards": [
             {
-              "name": "Diversity"
+              "name": "ROBGAM BOARD"
             }
           ],
           "toolsDependencies":
