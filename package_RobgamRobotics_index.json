@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "ROBGAM ROBOTICS",
+      "maintainer": "Robotics Masters",
+      "websiteURL": "https://roboticsmasters.co",
+      "email" : "techsupport@roboticsmasters.co",
+      "platforms":
+      [
+        {
+          "name": "Robgam Robotics Board",
+          "architecture": "samd",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/MarioRoldan97/ROBGAM_BOARD/ROBGAM.rar",
+          "archiveFileName": "ROBGAM.rar",
+          "checksum": "SHA-256:3190d4bd2809d00a620c7e699f30e1c8283d7f8cd3cba4c487aaa159e47d91d6",
+          "size": "9075686",
+          "boards": [
+            {
+              "name": "Robgam Board"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
