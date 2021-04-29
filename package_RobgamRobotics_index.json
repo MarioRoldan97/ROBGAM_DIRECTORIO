@@ -13,13 +13,19 @@
           "architecture": "AVR",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/MarioRoldan97/ROBGAM_BOARD/blob/main/ROBGAM.rar?raw=true",
-          "archiveFileName": "ROBGAM.rar",
-          "checksum": "SHA-256:3190d4bd2809d00a620c7e699f30e1c8283d7f8cd3cba4c487aaa159e47d91d6",
-          "size": "9075686",
+          "url": "https://github.com/MarioRoldan97/ROBGAM_BOARD/blob/main/ROBGAM.zip?raw=true",
+          "archiveFileName": "ROBGAM.zip",
+          "checksum": "SHA-256:58eb17a881485c977affae803557cfc6f7026f22f84be68a1cbb8e113e12a5d9",
+          "size": "10454496",
           "boards": [
             {
-              "name": "ROBGAM BOARD"
+              "name": "Diversity"
+            },
+            {
+              "name": "Infinity"
+            },
+            {
+              "name": "Gravity"
             }
           ],
           "toolsDependencies":
