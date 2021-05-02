@@ -9,7 +9,7 @@
       "platforms":
       [
         {
-          "name": "Robgam Robotics Board",
+          "name": "Robgam Robotics Boards",
           "architecture": "AVR",
           "version": "0.0.1",
           "category": "Contributed",
