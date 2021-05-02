@@ -15,17 +15,14 @@
           "category": "Contributed",
           "url": "https://github.com/MarioRoldan97/ROBGAM_BOARD/blob/main/ROBGAM.zip?raw=true", 
           "archiveFileName": "ROBGAM.zip",
-          "checksum": "SHA-256:663276fa65bafc682b270f6bd4b2cde71a35f2010653d8cf69e26748769d5d73",
-          "size": "10375118",
+          "checksum": "SHA-256:cf851289ffb9e711779e4c5cbf348a64ac29312c2e5119d3bc950c48a300c37f",
+          "size": "6046651",
           "boards": [
             {
               "name": "Diversity"
             },
             {
               "name": "Infinity"
-            },
-            {
-              "name": "Gravity"
             }
           ],
           "toolsDependencies":
