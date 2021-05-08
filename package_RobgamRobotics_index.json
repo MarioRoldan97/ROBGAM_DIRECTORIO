@@ -62,8 +62,8 @@
           "category": "Contributed",
           "url": "https://github.com/MarioRoldan97/ROBGAM_BOARD/blob/main/ROBGAM-V0.0.2.zip?raw=true", 
           "archiveFileName": "ROBGAM-V0.0.2.zip",
-          "checksum": "SHA-256:f6360fb7b75a3b1c9acac6e81105b80384279db25ecc5e87509ffc27b8dcfb73",
-          "size": "6209396",
+          "checksum": "SHA-256:72c73530cd821362bb06093d6b505a8a3dee60cc3a04c2aaba898e9383a99cd1",
+          "size": "6209422",
           "boards": [
             {
               "name": "Diversity"
